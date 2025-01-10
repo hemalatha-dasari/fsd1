@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Hello World Page</title>
+</head>
+<body>
+<h1>HELLO WORLD</h1>
+<h2>HELLO WORLD</h2>
+<h3>HELLO WORLD</h3>
+<h4>HELLO WORLD</h4>
+<h5>HELLO WORLD</h5>
+<h6>HELLO WORLD</h6>
+<p>This is a Hello World Page displaying HELLO WORLD with different heading tags</p>
+</body>
+</html>
